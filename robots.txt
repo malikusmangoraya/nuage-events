@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nuage-events.com/sitemap.xml
